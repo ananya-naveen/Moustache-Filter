@@ -11,6 +11,6 @@ function draw(){
     
 }
 
-function snapshot(){
+function napshot(){
     save("mustache.png");
 }
