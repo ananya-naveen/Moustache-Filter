@@ -4,7 +4,7 @@ function preload(){
 
 function setup(){
     canvas=createCanvas(300,300);
-    canvas.center();
+    canvas.position(625,325);
 }
 
 function draw(){
